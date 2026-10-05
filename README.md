@@ -1,2 +1,15 @@
 # scripts-wave-56
-personal notes and practice
+
+Just dumping some thoughts here.
+
+## Later
+- [x] write it down before forgetting
+- ask about the config
+- check the logs
+- try the simpler approach
+
+```bash
+make clean
+```
+
+— end —
